@@ -92,6 +92,10 @@ notebook >= 7.0
 
 Python 3.9+ önerilir.
 
+## 📖 Kaynak Kitap
+
+Szepesvári, C. (2022). Algorithms for reinforcement learning. Springer nature.
+
 ---
 
 
