@@ -3,7 +3,7 @@
 Haydar Kılıç, Yapay Zeka Mühendisliği
 ---
 
-Bu repodaki Jupyter notebook'lar Pekiştirmeli Öğrenme dersinin teorik içeriğin Python uygulamasını içermektedir.
+Pekiştirmeli Öğrenme (Reinforcement Learning) ve Dinamik Programlama dünyasına adım atmak için hazırlanmış, teori ile uygulamayı birleştiren kapsamlı bir eğitim deposudur. Bu repoda, temel Markov Karar Süreçlerinden başlayarak modern kontrol ve politika tabanlı pekiştirmeli öğrenme algoritmalarına kadar uzanan Jupyter Notebook çalışmaları yer almaktadır.
 
 ---
 
