@@ -1,9 +1,7 @@
 # Pekiştirmeli Öğrenme
 
-** Haydar Kılıç, Yapay Zeka Mühendisliği** 
+Haydar Kılıç, Yapay Zeka Mühendisliği
 ---
-
-## 📖 Kaynak Kitap
 
 Bu repodaki Jupyter notebook'lar Pekiştirmeli Öğrenme dersinin teorik içeriğin Python uygulamasını içermektedir.
 
